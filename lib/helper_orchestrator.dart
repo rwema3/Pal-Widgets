@@ -153,5 +153,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     return _HelperOrchestratorScope(
       helperOrchestratorState: this,
       child: widget.child,
-    );
-  }
+    );  }
