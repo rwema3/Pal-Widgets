@@ -53,4 +53,3 @@ class HelperOrchestrator extends StatefulWidget {
   ///    exception if a [HelperOrchestrator] is not found in the given context.
   static HelperOrchestratorState? maybeOf(BuildContext? context) {
     if (context == null) {
-      return null;
