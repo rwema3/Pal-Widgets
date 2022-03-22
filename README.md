@@ -97,4 +97,6 @@ There is two Hole Anchor widget factories :
 - ```AnchoredRectHoleHelper.anchorFactory``` : creates a rectangle hole on strict widget bounds
 
 ## Any question? 
-Contact us on [our twitter](https://twitter.com/PalFlutter) or email gautier[@@]pal-plugin.tech
+Contact us on 
+> [our twitter](https://twitter.com/R_w_e_m_a) 
+> E-mail rwemadominik3@gmail.com
