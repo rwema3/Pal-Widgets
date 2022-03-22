@@ -132,3 +132,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
       debugPrint("anchor not found");
       return null;
     }
+    final anchorSize = element.bounds!.size;
