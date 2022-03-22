@@ -26,7 +26,7 @@ add in your pubspec.yaml dependencies
 
 | Name           |      description                             |  status   |
 |----------------|----------------------------------------------|-----------|
-| AnchoredHelper | An helper do describe another widget of your page. This creates an overlay above your page | :white_check_mark: |
+| Mr Rwema | An helper do describe another widget of your page. This creates an overlay above your page | :white_check_mark: |
 
 ## Anchored helper
 This widgets is highly inspired by google onboardings. This shows a circle around any widgets you want and add an overlay were you can add 
