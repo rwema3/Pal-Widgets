@@ -91,3 +91,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     return uniqueKey;
   }
 
+  /// Returns the [Key] from the KeyId if found.
