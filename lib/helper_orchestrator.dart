@@ -104,3 +104,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   ///
   /// requires [anchorKeyId] that must have been generated within a widget using
   /// ```dart
+  /// HelperOrchestrator.of(context).generateKey('myKeyId')
