@@ -133,4 +133,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
       return null;
     }
     final anchorSize = element.bounds!.size;
-    final currentPos = element.offset!;
