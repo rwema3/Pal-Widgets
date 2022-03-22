@@ -39,3 +39,4 @@ class HelperOrchestrator extends StatefulWidget {
 
     final _HelperOrchestratorScope scope =
         context.dependOnInheritedWidgetOfExactType<_HelperOrchestratorScope>()!;
+    return scope._helperOrchestratorState;
