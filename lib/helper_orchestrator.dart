@@ -24,4 +24,3 @@ class _HelperOrchestratorScope extends InheritedWidget {
 /// this will allow you to register widgets and show [AnchoredHelper] and others
 /// Pal onboarding widgets
 class HelperOrchestrator extends StatefulWidget {
-  final Widget child;
