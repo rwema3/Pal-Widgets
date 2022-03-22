@@ -143,7 +143,7 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   }
 
   /// Hide the current overlayed helper
-  /// this do nothing if there is no helper o
+  /// this do nothing if there is no helper 
   void hideHelper() {
     _overlayHelper.popHelper();
   }
