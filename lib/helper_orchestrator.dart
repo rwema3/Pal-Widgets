@@ -114,4 +114,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     }
     _overlayHelper.showHelper(
       context,
-      (context) => AnchorHelperWrapper(
