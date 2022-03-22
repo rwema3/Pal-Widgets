@@ -16,3 +16,4 @@ class _HelperOrchestratorScope extends InheritedWidget {
         super(key: key, child: child);
 
   @override
+  bool updateShouldNotify(_HelperOrchestratorScope old) =>
