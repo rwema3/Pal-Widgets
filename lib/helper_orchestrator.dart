@@ -19,3 +19,4 @@ class _HelperOrchestratorScope extends InheritedWidget {
   bool updateShouldNotify(_HelperOrchestratorScope old) =>
       _helperOrchestratorState != old._helperOrchestratorState;
 }
+
