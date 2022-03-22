@@ -102,4 +102,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
 
   /// This shows an [AnchoredHelper] above your page as overlay
   ///
-  /// requires [anchorKeyId] that must have been generated within a widget using
