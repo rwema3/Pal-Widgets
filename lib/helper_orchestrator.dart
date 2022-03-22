@@ -106,3 +106,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   /// ```dart
   /// HelperOrchestrator.of(context).generateKey('myKeyId')
   /// ```
+  Future showAnchoredHelper(String anchorKeyId, AnchoredHelper helper) async {
