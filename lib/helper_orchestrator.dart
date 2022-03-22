@@ -42,4 +42,3 @@ class HelperOrchestrator extends StatefulWidget {
     return scope._helperOrchestratorState;
   }
 
-  /// The state from the closest instance of this class that encloses the given
