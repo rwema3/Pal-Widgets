@@ -36,4 +36,3 @@ class HelperOrchestrator extends StatefulWidget {
   ///    throwing if there is no [HelperOrchestrator] ancestor.
   static HelperOrchestratorState of(BuildContext context) {
     assert(debugCheckHasScaffoldMessenger(context));
-
