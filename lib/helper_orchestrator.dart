@@ -100,4 +100,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     throw 'Key not found';
   }
 
-  /// This shows an [AnchoredHelper] above your page as overlay
