@@ -33,4 +33,3 @@ class HelperOrchestrator extends StatefulWidget {
   /// See also:
   ///
   ///  * [maybeOf], which is a similar function but will return null instead of
-  ///    throwing if there is no [HelperOrchestrator] ancestor.
