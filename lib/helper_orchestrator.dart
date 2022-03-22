@@ -83,4 +83,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   /// this keyId is associated with the key and can be found again
   /// using [getAnchorKey]
   /// The key will be used to find the element position when requesting
-  /// [showAnchoredHelper]
