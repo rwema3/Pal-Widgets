@@ -134,4 +134,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     }
     final anchorSize = element.bounds!.size;
     final currentPos = element.offset!;
-    final writeArea = _elementFinder!.getLargestAvailableSpace(element);
