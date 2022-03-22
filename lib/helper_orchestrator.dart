@@ -116,3 +116,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
       context,
       (context) => AnchorHelperWrapper(
         anchor: anchor,
+        child: helper,
