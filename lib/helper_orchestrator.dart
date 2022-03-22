@@ -97,4 +97,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     if (keys.containsKey(keyId)) {
       return keys[keyId]!;
     }
-    throw 'Key not found';
