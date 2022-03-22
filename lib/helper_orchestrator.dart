@@ -37,4 +37,3 @@ class HelperOrchestrator extends StatefulWidget {
   static HelperOrchestratorState of(BuildContext context) {
     assert(debugCheckHasScaffoldMessenger(context));
 
-    final _HelperOrchestratorScope scope =
