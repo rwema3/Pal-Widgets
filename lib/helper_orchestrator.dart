@@ -111,3 +111,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     if (anchor == null) {
       debugPrint("anchor cannot be found. show anchored failed");
       return;
+    }
