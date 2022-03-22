@@ -67,3 +67,4 @@ class HelperOrchestrator extends StatefulWidget {
 /// State for [HelperOrchestrator]
 ///
 /// Can display an helper as overlay above a child using
+/// the current [BuildContext] and [HelperOrchestrator.of]
