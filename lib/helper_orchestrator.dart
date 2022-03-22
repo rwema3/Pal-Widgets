@@ -55,3 +55,4 @@ class HelperOrchestrator extends StatefulWidget {
     if (context == null) {
       return null;
     }
+    final _HelperOrchestratorScope? scope =
