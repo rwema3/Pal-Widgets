@@ -96,4 +96,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   Key getAnchorKey(String keyId) {
     if (keys.containsKey(keyId)) {
       return keys[keyId]!;
-    }
