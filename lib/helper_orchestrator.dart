@@ -123,4 +123,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
 
   /// Returns an [Anchor] wich contains position, size and rect of the widget
   /// containing the key.
-  ///
