@@ -130,3 +130,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
         .searchChildElementByKey(getAnchorKey(anchorKeyId));
     if (element == null || element.bounds == null) {
       debugPrint("anchor not found");
+      return null;
