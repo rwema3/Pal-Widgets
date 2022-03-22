@@ -112,4 +112,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
       debugPrint("anchor cannot be found. show anchored failed");
       return;
     }
-    _overlayHelper.showHelper(
