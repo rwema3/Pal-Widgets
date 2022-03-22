@@ -79,4 +79,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     _elementFinder = ElementFinder(context);
   }
 
-  /// generate a [key] that will be registered within HelperOrchestrator
