@@ -110,3 +110,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     final anchor = await findAnchor(anchorKeyId);
     if (anchor == null) {
       debugPrint("anchor cannot be found. show anchored failed");
+      return;
