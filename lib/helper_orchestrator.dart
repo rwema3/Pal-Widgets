@@ -142,7 +142,7 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     );
   }
 
-  /// Hide the current ove
+  /// Hide the current over
   void hideHelper() {
     _overlayHelper.popHelper();
   }
