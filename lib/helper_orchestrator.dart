@@ -142,7 +142,7 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     );
   }
 
-  /// Hide the c
+  /// Hide the cu
   void hideHelper() {
     _overlayHelper.popHelper();
   }
