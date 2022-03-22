@@ -76,3 +76,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   @override
   void didChangeDependencies() {
     super.didChangeDependencies();
+    _elementFinder = ElementFinder(context);
