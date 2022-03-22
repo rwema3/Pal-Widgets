@@ -139,4 +139,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
       size: anchorSize,
       offset: currentPos,
       rect: writeArea,
-    );
