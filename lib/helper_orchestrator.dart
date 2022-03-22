@@ -108,3 +108,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   /// ```
   Future showAnchoredHelper(String anchorKeyId, AnchoredHelper helper) async {
     final anchor = await findAnchor(anchorKeyId);
+    if (anchor == null) {
