@@ -152,5 +152,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   Widget build(BuildContext context) {
     return _HelperOrchestratorScope(
       helperOrchestratorState: this,
-      child: widget.child,
   
