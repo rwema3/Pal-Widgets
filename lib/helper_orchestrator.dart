@@ -50,3 +50,4 @@ class HelperOrchestrator extends StatefulWidget {
   /// See also:
   ///
   ///  * [of], which is a similar function, except that it will throw an
+  ///    exception if a [HelperOrchestrator] is not found in the given context.
