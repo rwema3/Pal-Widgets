@@ -77,4 +77,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   void didChangeDependencies() {
     super.didChangeDependencies();
     _elementFinder = ElementFinder(context);
-  }
