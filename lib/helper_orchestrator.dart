@@ -45,3 +45,4 @@ class HelperOrchestrator extends StatefulWidget {
   /// The state from the closest instance of this class that encloses the given
   /// context, if any.
   ///
+  /// Will return null if a [HelperOrchestrator] is not found in the given context.
