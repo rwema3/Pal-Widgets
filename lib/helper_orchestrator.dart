@@ -88,3 +88,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     // final uniqueKey = UniqueKey();
     final uniqueKey = ValueKey(key);
     keys[key] = uniqueKey;
+    return uniqueKey;
