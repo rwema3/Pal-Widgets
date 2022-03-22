@@ -128,4 +128,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   Future<Anchor?> findAnchor(String anchorKeyId) async {
     final element = _elementFinder! //
         .searchChildElementByKey(getAnchorKey(anchorKeyId));
-    if (element == null || element.bounds == null) {
