@@ -13,3 +13,4 @@ class _HelperOrchestratorScope extends InheritedWidget {
     required Widget child,
     required HelperOrchestratorState helperOrchestratorState,
   })  : _helperOrchestratorState = helperOrchestratorState,
+        super(key: key, child: child);
