@@ -126,3 +126,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   ///
   /// this requires an [anchorKeyId] to search within our keys
   Future<Anchor?> findAnchor(String anchorKeyId) async {
+    final element = _elementFinder! //
