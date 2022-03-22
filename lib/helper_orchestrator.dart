@@ -107,4 +107,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   /// HelperOrchestrator.of(context).generateKey('myKeyId')
   /// ```
   Future showAnchoredHelper(String anchorKeyId, AnchoredHelper helper) async {
-    final anchor = await findAnchor(anchorKeyId);
