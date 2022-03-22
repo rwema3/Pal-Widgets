@@ -54,4 +54,3 @@ class HelperOrchestrator extends StatefulWidget {
   static HelperOrchestratorState? maybeOf(BuildContext? context) {
     if (context == null) {
       return null;
-    }
