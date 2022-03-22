@@ -20,3 +20,4 @@ class _HelperOrchestratorScope extends InheritedWidget {
       _helperOrchestratorState != old._helperOrchestratorState;
 }
 
+/// Manages Pal widgets to display an [Overlay] over your pages
