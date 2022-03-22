@@ -101,4 +101,3 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
   }
 
   /// This shows an [AnchoredHelper] above your page as overlay
-  ///
