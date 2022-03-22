@@ -142,7 +142,7 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     );
   }
 
-  /// Hide the curren
+  /// Hide the curre
   void hideHelper() {
     _overlayHelper.popHelper();
   }
