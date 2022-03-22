@@ -38,4 +38,3 @@ class HelperOrchestrator extends StatefulWidget {
     assert(debugCheckHasScaffoldMessenger(context));
 
     final _HelperOrchestratorScope scope =
-        context.dependOnInheritedWidgetOfExactType<_HelperOrchestratorScope>()!;
