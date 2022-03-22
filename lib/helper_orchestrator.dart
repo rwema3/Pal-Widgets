@@ -137,3 +137,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     final writeArea = _elementFinder!.getLargestAvailableSpace(element);
     return Anchor(
       size: anchorSize,
+      offset: currentPos,
