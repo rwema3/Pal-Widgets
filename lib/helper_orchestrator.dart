@@ -23,3 +23,4 @@ class _HelperOrchestratorScope extends InheritedWidget {
 /// Manages Pal widgets to display an [Overlay] over your pages
 /// this will allow you to register widgets and show [AnchoredHelper] and others
 /// Pal onboarding widgets
+class HelperOrchestrator extends StatefulWidget {
