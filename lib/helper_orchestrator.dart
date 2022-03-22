@@ -141,3 +141,4 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
       rect: writeArea,
     );
   }
+
