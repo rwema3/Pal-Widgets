@@ -79,7 +79,7 @@ class HelperOrchestratorState extends State<HelperOrchestrator> {
     _elementFinder = ElementFinder(context);
   }
 
-  /// generate a [key] that will be registered within HelperOrchestrator
+  /// generate a [key] that will be 
   /// this keyId is associated with the key and can be found again
   /// using [getAnchorKey]
   /// The key will be used to find the element position when requesting
